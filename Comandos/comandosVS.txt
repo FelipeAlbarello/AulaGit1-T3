@@ -1,0 +1,7 @@
+Novo arquivo - Ctrl+N
+Abrir arquivo - Ctrl+O
+Salvar arquivo - Ctrl+S
+Salvar arquivo(mesmo arquivo com nome diferente) - Ctrl+Shift+S
+Pesquisar no arquivo - Ctrl+F
+Encontrar e substituir no arquivo - Ctrl+H
+Abrir terminal - Ctrl+"
