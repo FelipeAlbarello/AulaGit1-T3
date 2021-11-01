@@ -14,5 +14,5 @@ git reset HEAD // desfaz o último commit <br>
 git commit --amend -m "Nova mensagem" // editar o último commit ou a última mensagem <br>
 git branch nome_da_branch // cria uma nova branch <br>
 git push origin master // envia as mudanças para o repositório remoto, caso ele esteja vazio <br>
-git rm // remover arquivos de um respositório do git
+git rm // remover arquivos de um respositório do git <br>
 git rm --cached nome_do_arquivo // para remover esses arquivos apenas do git sem removê-los localmente
