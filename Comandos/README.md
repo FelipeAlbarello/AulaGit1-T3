@@ -1,3 +1,5 @@
+COMANDOS TERMINAL
+
 ls lista arquivos no diretório ou na pasta.
 ls -a lista todos os arquivos, incluindo arquivos ocultos.
 ls -l mostra todas as informaçoes sobre um diretório: usuário
